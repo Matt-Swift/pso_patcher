@@ -243,7 +243,7 @@ restart:
     draw_bg();
 
 #ifndef PLANET_RING
-    fb_write_string("Sylverant PSO Patcher v2.0\n"
+    fb_write_string("Sylverant PSO Patcher v2.0 for Ragol.org\n"
                     "Copyright (C) 2011-2013 Lawrence Sebald\n\n");
 #else
     fb_write_string("Sylverant Planet Ring Patcher v2.0\n"
