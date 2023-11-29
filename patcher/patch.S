@@ -132,7 +132,7 @@ _server_addr:
     .long       0
 .server_host:
 #ifndef PLANET_RING
-    .string     "sylverant.net"
+    .string     "ragol.org"
 #else
     .string     "dctalk.no-ip.info"
 #endif
